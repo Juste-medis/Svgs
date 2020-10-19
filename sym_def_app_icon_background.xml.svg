@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#000000">
+ <path d= "M0,0h108v108h-108z"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M19,0L19,108"        android:strokeColor="#33FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M9,0L9,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M39,0L39,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M29,0L29,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M59,0L59,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M49,0L49,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M79,0L79,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M69,0L69,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M89,0L89,108"        android:strokeColor="#33FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M99,0L99,108"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,89L108,89"        android:strokeColor="#33FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,99L108,99"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,69L108,69"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,79L108,79"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,49L108,49"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,59L108,59"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,29L108,29"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,39L108,39"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,19L108,19"        android:strokeColor="#33FFFFFF" android:strokeWidth="0.8" />
+ <path d= "M0,9L108,9"        android:strokeColor="#66FFFFFF" android:strokeWidth="0.8" />
+</svg>
